@@ -1,2 +1,11 @@
-INSERT INTO Players(id, name, surname, number)
-values ( 1 , 'Marcus' , 'Rashford' , 10 );
+INSERT INTO Players(id, name, surname, number) values ( 1 , 'Marcus' , 'Rashford' , 10 );
+INSERT INTO Players(id, name, surname, number) values ( 2 , 'Andre' , 'Onana' , 24 );
+INSERT INTO Players(id, name, surname, number) values ( 3 , 'Raphael' , 'Varane' , 19 );
+INSERT INTO Players(id, name, surname, number) values ( 4 , 'Harry' , 'Maguire' , 5 );
+INSERT INTO Players(id, name, surname, number) values ( 5 , 'Luke' , 'Shaw' , 23 );
+INSERT INTO Players(id, name, surname, number) values ( 6 , 'Casemiro' , '-' , 18 );
+INSERT INTO Players(id, name, surname, number) values ( 7 , 'Christian' , 'Eriksen' , 14 );
+INSERT INTO Players(id, name, surname, number) values ( 8 , 'Bruno' , 'Fernandes' , 8 );
+INSERT INTO Players(id, name, surname, number) values ( 9 , 'Jadon' , 'Sancho' , 25 );
+INSERT INTO Players(id, name, surname, number) values ( 10 , 'Anthony' , '-' , 21 );
+INSERT INTO Players(id, name, surname, number) values ( 11 , 'Anthony' , 'Martial' , 9 );
