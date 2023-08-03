@@ -9,3 +9,6 @@ INSERT INTO Players(id, name, surname, number) values ( 8 , 'Bruno' , 'Fernandes
 INSERT INTO Players(id, name, surname, number) values ( 9 , 'Jadon' , 'Sancho' , 25 );
 INSERT INTO Players(id, name, surname, number) values ( 10 , 'Anthony' , '-' , 21 );
 INSERT INTO Players(id, name, surname, number) values ( 11 , 'Anthony' , 'Martial' , 9 );
+INSERT INTO Comments(id, player_id, comment) values ( 1 , 1 , 'Striker');
+INSERT INTO Comments(id, player_id, comment) values ( 2 , 2 , 'Goalkeeper');
+INSERT INTO Comments(id, player_id, comment) values ( 3, 3 , 'Defender');
